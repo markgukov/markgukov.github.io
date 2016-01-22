@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Most popular topics on StackOverflow
+title: Most popular tags on StackOverflow in 2015
 ---
 
 StackExchange Data Explorer is a data fanatic's dream. It lets you extract some cool stuff, such as the network's most popular tags in 2015, for example:
