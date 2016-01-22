@@ -6,10 +6,10 @@ permalink: /about/
 
 Agencies I worked for:
 
-* Drive Digital (2014 - )
+* Drive Digital (2014–)
 * Rethink
 * Tidal
-* Fuse Interactive (2005 - 2010)
+* Fuse Interactive (2005–2010)
 
 Brands I worked with:
 
