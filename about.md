@@ -6,23 +6,23 @@ permalink: /about/
 
 Agencies I worked for:
 
-* Drive Digital (2014–)
-* Rethink
+* [Drive Digital](http://drivedigital.ca) (2014–)
+* [Rethink](http://rethinkcanada.com)
 * Tidal
-* Fuse Interactive (2005–2010)
+* [Fuse Interactive](http://fuseinteractive.ca) (2005–2010)
 
 Brands I worked with:
 
-* Coast Capital Savings
-* Future Shop
-* Telus
-* Aritzia
-* Offsetters
-* Subway
-* Earls
-* Ricky's Restaurants
-* Fatburger
-* So Nice
+* [Coast Capital Savings](https://www.coastcapitalsavings.com)
+* [Future Shop](http://futureshop.ca)
+* [Telus](http://telus.com)
+* [Aritzia](http://aritzia.com)
+* [Offsetters](http://offsetters.ca)
+* [Subway](http://subway.com)
+* [Earls](http://earls.ca)
+* [Ricky's Restaurants](https://gotorickys.com/)
+* [Fatburger](http://fatburger.com)
+* [So Nice](http://sonice.ca)
 
 Specialities: 
 
@@ -37,7 +37,7 @@ Specialities:
 
 Education: 
 
-* Information Technologies (Web Development Concentraton), Nova Scotia Community College (2003–2005)
+* Information Technologies (Web Development Concentraton), [Nova Scotia Community College](http://nscc.ca) (2003–2005)
 
 Certificates:
 
