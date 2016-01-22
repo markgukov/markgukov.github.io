@@ -37,7 +37,7 @@ Specialities:
 
 Education: 
 
-* Information Technologies (Web Development Concentraton), [Nova Scotia Community College](http://nscc.ca) (2003–2005)
+* Information Technologies (Web Development Concentration), [Nova Scotia Community College](http://nscc.ca) (2003–2005)
 
 Certificates:
 
