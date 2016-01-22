@@ -4,18 +4,36 @@ title: About
 permalink: /about/
 ---
 
-Projects created while being a part of [Fuse Interactive](http://fuseinteractive.ca) (2005–2010):
+Agencies I worked for:
+* Drive Digital (2014 - )
+* Rethink
+* Tidal
+* Fuse Interactive (2005 - 2010)
 
-* Talula (Drupal configuration and theming)
-* Wilfred (Drupal configuration and theming)
-* PhotoGIFTCARD.com (site framework, e-commerce platform, credit card processing, custom API, print file generation)
-* Future Shop - "Ask an expert" (CMS, testing)
-* Coast Capital Savings (content management system for the virtual greeter)
-* mondonation (content management system, order management and processing, generation of PDF files for print)
-* Artifex Studios (site framework, content management, flash video)
+Brands I worked with:
+* Coast Capital Savings
+* Future Shop
+* Telus
+* Aritzia
+* Offsetters
+* Subway
+* Earls
+* Ricky's Restaurants
+* Fatburger
+* So Nice
 
-Other notable projects: Aritzia, Ricky's Restaurants, Earls, Fatburger, Future Shop Windows Vista Gadget, Fully Loaded Tea, Glinda Girls, Aurora Energy, Offsetters, Otrib.com, The Mega Board.
+Specialities: 
+* PHP
+* MySQL
+* JavaScript
+* HTML
+* CSS
+* Drupal
+* WordPress
+* Magento
 
-Specialities: PHP, MySQL, JavaScript, HTML, CSS, Drupal, SVN.
+Education: 
+* Information Technologies (Web Development Concentraton), Nova Scotia Community College (2003–2005)
 
-Education: Information Technologies (Web Development Concentraton), Nova Scotia Community College (2003–2005).
+Certificates:
+* Magento Certified Developer
