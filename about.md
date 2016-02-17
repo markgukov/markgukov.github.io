@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Personal projects:
+
 * [Hyperdigital](http://hyperdigital.ca)
 * [HockeyLog](http://hockeylog.com)
 
