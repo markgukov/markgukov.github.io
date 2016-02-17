@@ -11,8 +11,8 @@ Personal projects:
 Agencies I worked for:
 
 * [Drive Digital](http://drivedigital.ca) (2014–)
-* [Rethink](http://rethinkcanada.com) (2013)
-* [Tidal](http://tidal.ca) (2012–2013)
+* [Rethink](http://rethinkcanada.com) (2014)
+* [Tidal](http://tidal.ca) (2013–2014)
 * [Fuse Interactive](http://fuseinteractive.ca) (2005–2010)
 
 Brands I worked with:
