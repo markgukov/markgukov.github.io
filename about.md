@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
+Personal projects:
+* [Hyperdigital](http://hyperdigital.ca)
+* [HockeyLog](http://hockeylog.com)
+
 Agencies I worked for:
 
 * [Drive Digital](http://drivedigital.ca) (2014–)
-* [Rethink](http://rethinkcanada.com)
-* Tidal
+* [Rethink](http://rethinkcanada.com) (2013)
+* [Tidal](http://tidal.ca) (2012–2013)
 * [Fuse Interactive](http://fuseinteractive.ca) (2005–2010)
 
 Brands I worked with:
 
+* [Vancouver Canucks](http://canucks.com)
+* [Canuck Place](http://canuckplace.org)
 * [Coast Capital Savings](https://www.coastcapitalsavings.com)
 * [Future Shop](http://futureshop.ca)
 * [Telus](http://telus.com)
