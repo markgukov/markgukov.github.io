@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Personal projects:
-
-* [Hyperdigital](http://hyperdigital.ca)
-* [HockeyLog](http://hockeylog.com)
-
 Companies I worked for:
 
 * [PayPal](http://paypal.com) (2017-2018)
